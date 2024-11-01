@@ -1,0 +1,3136 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-03-05 21:01-0800\n"
+"PO-Revision-Date: 2021-04-10 16:05-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/Admin/OneTeamSoftware.php:221
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:247
+msgid "About Us"
+msgstr ""
+
+#: includes/Admin/OneTeamSoftware.php:255
+msgid "Contact Us"
+msgstr ""
+
+#: includes/Shipping/AbstractShippingMethod.php:204
+msgid "is invalid"
+msgstr ""
+
+#: includes/Shipping/Adapter/AbstractAdapter.php:63
+msgid "USD"
+msgstr ""
+
+#: includes/Shipping/Adapter/AbstractAdapter.php:63
+msgid "CAD"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:34
+msgid "DKK"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:35
+msgid "NOK"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:36
+msgid "GBP"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:37
+#: includes/Shipping/Adapter/Shipmondo.php:45
+msgid "CHF"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:38
+msgid "EUR"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:39
+msgid "ALL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:40
+msgid "BAM"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:41
+msgid "BGN"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:42
+msgid "HRK"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:43
+msgid "CZK"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:44
+msgid "ISK"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:46
+msgid "MDL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:47
+msgid "MKD"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:48
+msgid "PLN"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:49
+msgid "RON"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:50
+msgid "RSD"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:54
+msgid "Shipping Label Created"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:55
+msgid "General"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:56
+msgid "Informed"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:57
+msgid "In Transit"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:58
+msgid "Available for Delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:59
+msgid "Delivered"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:60
+msgid "Pickup Requested"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:61
+msgid "Processing"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:62
+msgid "Warning"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:63
+msgid "Danger"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:64
+msgid "Success"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:73
+msgid "Other"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:74
+msgid "Gift"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:75
+msgid "Documents"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:76
+msgid "Commercial Samples"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:77
+msgid "Returned Goods"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:153
+msgid "API User"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:157
+#: includes/Shipping/Adapter/Shipmondo.php:167
+msgid "You can find it at"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:159
+#: includes/Shipping/Adapter/Shipmondo.php:169
+msgid "Settings -> API -> Access"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:163
+msgid "API Key"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:450
+msgid "B2C Europe"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:451
+msgid "Best Transport"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:452
+msgid "Bring"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:453
+msgid "Brink Transport"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:454
+msgid "Budbee"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:455
+msgid "Burd"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:456
+msgid "Blue Water Shipping"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:457
+msgid "DACHSER"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:458
+msgid "dao"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:459
+msgid "Deutsche Post"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:460
+msgid "Danske Fragtmænd"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:461
+msgid "DHL Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:462
+msgid "DHL Freight"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:463
+msgid "DHL Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:464
+msgid "Doorhub"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:465
+msgid "DPD"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:466
+msgid "DSV Road"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:467
+msgid "Early Bird"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:468
+msgid "FedEx"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:469
+msgid "FREJA"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:470
+msgid "GEODIS"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:471
+msgid "GLS Denmark"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:472
+msgid "GLS Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:473
+msgid "GLS Poland"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:474
+msgid "helthjem"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:475
+msgid "Interfjord"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:476
+msgid "Mover"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:477
+#: includes/Shipping/Adapter/Shipmondo.php:478
+msgid "PostNord"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:479
+msgid "Posten Norge"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:480
+msgid "Posti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:481
+msgid "SRT Transport"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:482
+msgid "TNT"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:483
+msgid "DB Schenker Sverige"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:484
+msgid "Unspecified carrier"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:485
+msgid "UPS"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:486
+msgid "Xpressen"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:493
+msgid "B2C Europe Parcel Plus"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:494
+msgid "Best Transport Direkte Kørsel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:495
+msgid "Best Transport Hemleverans Small"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:496
+msgid "Best Transport Hjemmelevering Aften"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:497
+msgid "Best Transport Tidsdefineret Kurer Levering"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:498
+msgid "Brink Transport Kurér"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:499
+msgid "Brink Transport Dag"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:500
+msgid "Brink Transport Nat"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:501
+msgid "Bring Business Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:502
+msgid "Bring Business Parcel Bulk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:503
+msgid "Bring Business Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:504
+msgid "Bring Business Parcel Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:505
+msgid "Bring Ekspress neste dag"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:506
+msgid "Bring Home Delivery Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:507
+msgid "Bring Home Delivery Parcel Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:508
+msgid "Bring Urban Home Delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:509
+msgid "Bring Pakke i postkassen"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:510
+msgid "Bring Pakke i postkassen med RFID"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:511
+msgid "Bring Pakke levert hjem"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:512
+msgid "Bring Pickup Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:513
+msgid "Bring PickUp Parcel Bulk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:514
+msgid "Bring PickUp Parcel Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:515
+msgid "Bring Pickup Parcel Return Bulk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:516
+msgid "Bring Pakke til bedrift"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:517
+msgid "Bring Retur ekspress neste dag"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:518
+msgid "Bring Retur fra hentested"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:519
+msgid "Bring Routing Label"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:520
+msgid "Bring Retur pakke fra bedrift"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:521
+msgid "Bring Pakke til hentested"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:522
+msgid "Bring Stykk- og partigods"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:523
+msgid "Budbee Home"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:524
+msgid "Burd Distribution"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:525
+msgid "Blue Water Shipping Blue Air Pack - Standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:526
+msgid "Blue Water Shipping Ocean Freight - Standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:527
+msgid "Blue Water Shipping Road - Standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:528
+msgid "dao Export Home"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:529
+msgid "dao Export Home Small"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:530
+msgid "dao Export Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:531
+msgid "dao Export Shop"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:532
+msgid "dao Food"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:533
+msgid "dao Home"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:534
+msgid "dao Hjemmelevering - Samme dag"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:535
+msgid "dao International"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:536
+msgid "dao Pakkeshop"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:537
+msgid "dao Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:538
+msgid "dao Shop to Home"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:539
+msgid "dao Shop to Shop"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:540
+msgid "DACHSER targofix"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:541
+msgid "DACHSER targofix 10"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:542
+msgid "DACHSER targofix 12"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:543
+msgid "DACHSER targoflex"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:544
+msgid "DACHSER targospeed"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:545
+msgid "DACHSER targospeed 12"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:546
+msgid "DACHSER vengofix"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:547
+msgid "DACHSER vengoflex"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:548
+msgid "DACHSER vengospeed"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:549
+msgid "Danske Fragtmænd Bilpakke"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:550
+msgid "Danske Fragtmænd Bilpakke return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:551
+msgid "Danske Fragtmænd Enhedsforsendelse"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:552
+msgid "Danske Fragtmænd Erhvervsbilpakke"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:553
+msgid "Danske Fragtmænd Erhvervsbilpakke return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:554
+msgid "Danske Fragtmænd Enhedsforsendelse return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:555
+msgid "Danske Fragtmænd Nat Privat"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:556
+msgid "Danske Fragtmænd Omdeling til erhverv"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:557
+msgid "Danske Fragtmænd Omdeling til privat"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:558
+msgid "Danske Fragtmænd Pakkeshop"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:559
+msgid "Danske Fragtmænd Stykgods"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:560
+msgid "Danske Fragtmænd Stykgods Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:561
+msgid "Danske Fragtmænd Volumenpakke"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:562
+msgid "Danske Fragtmænd Volumenpakke return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:563
+msgid "DHL Express Express Domestic"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:564
+msgid "DHL Express Economy Select"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:565
+msgid "DHL Express Express Worldwide"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:566
+msgid "DHL Express Express Worldwide Document"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:567
+msgid "DHL Express Express 10:30"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:568
+msgid "DHL Express Express 12:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:569
+msgid "DHL Express Express 9:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:570
+msgid "DHL Freight Euroconnect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:571
+msgid "DHL Freight Euroconnect Plus"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:572
+msgid "DHL Freight Home Delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:573
+msgid "DHL Freight Paket"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:574
+msgid "DHL Freight Parcel Connect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:575
+msgid "DHL Freight Parcel Connect Service Point"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:576
+msgid "DHL Freight Paket Export"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:577
+msgid "DHL Freight Pall"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:578
+msgid "DHL Freight Parcel Return Connect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:579
+msgid "DHL Freight Parti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:580
+msgid "DHL Freight Stycke"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:581
+msgid "DHL Freight Service Point B2C"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:582
+msgid "DHL Freight Service Point Retur"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:583
+msgid "DHL Parcel Easy Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:584
+msgid "DHL Parcel Europaket"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:585
+msgid "DHL Parcel Paket"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:586
+msgid "DHL Parcel Parcel Connect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:587
+msgid "DHL Parcel Parcel Connect Postfiliale"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:588
+msgid "DHL Parcel DHL Paket International"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:589
+msgid "DHL Parcel Paket Postfiliale"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:590
+msgid "DHL Parcel Paket Packstation"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:591
+msgid "DHL Parcel Parcel Return Connect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:592
+msgid "DHL Parcel Warenpost"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:593
+msgid "Doorhub Bulk import"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:594
+msgid "Doorhub Hub-delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:595
+msgid "Doorhub On-demand"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:596
+msgid "Doorhub On-demand light"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:597
+msgid "Doorhub Ondemand retur"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:598
+msgid "Doorhub Same-day"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:599
+msgid "Doorhub Same-day flexible"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:600
+msgid "Doorhub Same-day multiple pick up & drop off"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:601
+msgid "DPD Classic"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:602
+msgid "DPD Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:603
+msgid "DPD DPD 10:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:604
+msgid "DPD DPD 12:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:605
+msgid "DPD DPD 18:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:606
+msgid "DPD DPD 8:30"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:607
+msgid "Deutsche Post Packet Priority"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:608
+msgid "Deutsche Post Packet Plus"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:609
+msgid "Deutsche Post Packet Return"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:610
+msgid "Deutsche Post Packet Tracked"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:611
+msgid "Deutsche Post Warenpost International Signature"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:612
+msgid "Deutsche Post Warenpost International Tracked"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:613
+msgid "Deutsche Post Warenpost International Untracked"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:614
+msgid "DSV Road Courier - Document"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:615
+msgid "DSV Road Courier - Envelope"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:616
+msgid "DSV Road Parcel Business"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:617
+msgid "DSV Road Parcel Home"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:618
+msgid "DSV Road Daily Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:619
+msgid "DSV Road Full Loads"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:620
+msgid "DSV Road Groupage"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:621
+msgid "DSV Road Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:622
+msgid "DSV Road Part Load"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:623
+msgid "DSV Road Courier - Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:624
+msgid "Early Bird Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:625
+msgid "Early Bird Postlådepaket"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:626
+msgid "FedEx International Economy"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:627
+msgid "FedEx International Priority"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:628
+msgid "FedEx Priority Overnight"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:629
+msgid "FREJA Standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:630
+msgid "GEODIS Economy"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:631
+msgid "GEODIS Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:632
+msgid "GLS Denmark Business Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:633
+msgid "GLS Denmark Click & Collect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:634
+msgid "GLS Denmark Deposit Service"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:635
+msgid "GLS Denmark Express 10:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:636
+msgid "GLS Denmark Express 12:00"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:637
+msgid "GLS Denmark Euro Business Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:638
+msgid "GLS Denmark Euro Business Parcel (Customs)"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:639
+msgid "GLS Denmark Global Business Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:640
+msgid "GLS Denmark Private Delivery Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:641
+msgid "GLS Denmark Pick&ReturnService"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:642
+msgid "GLS Denmark Pick&ShipService"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:643
+msgid "GLS Denmark Shop Delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:644
+msgid "GLS Denmark Shop Return Service"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:645
+msgid "GLS Express Der Kurier"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:646
+msgid "GLS Poland Business Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:647
+msgid "GLS Poland Euro Business Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:648
+msgid "helthjem abonnement"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:649
+msgid "helthjem ekspress"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:650
+msgid "helthjem ekspress m/Hent i butikk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:651
+msgid "helthjem ekspress/standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:652
+msgid "helthjem en-til-en m/post"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:653
+msgid "helthjem frekvent m/post"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:654
+msgid "helthjem Hent i butikk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:655
+#, no-php-format
+msgid "helthjem 100% ekspress"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:656
+#, no-php-format
+msgid "helthjem 100% standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:657
+msgid "helthjem B2B inNight"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:658
+msgid "helthjem Post"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:659
+msgid "helthjem Personlig hjemlevering"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:660
+msgid "helthjem retur"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:661
+msgid "helthjem Retur via butik"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:662
+msgid "helthjem standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:663
+msgid "helthjem standard m/ Hent i butikk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:664
+msgid "helthjem samlesending"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:665
+msgid "helthjem varebrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:666
+msgid "helthjem varebrev m/Hent i butikk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:667
+msgid "Interfjord Air"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:668
+msgid "Interfjord Domestic Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:669
+msgid "Interfjord Domestic Road"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:670
+msgid "Interfjord Economy"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:671
+msgid "Interfjord Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:672
+msgid "Interfjord Rail"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:673
+msgid "Interfjord Road"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:674
+msgid "Interfjord Special Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:675
+msgid "Interfjord Sea"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:676
+msgid "Mover Bil"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:677
+msgid "Mover Liftvogn"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:678
+msgid "Mover Varevogn"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:679
+#: includes/Shipping/Adapter/Shipmondo.php:717
+msgid "PostNord Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:680
+msgid "PostNord PostNord Parcel Direct Injection"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:681
+msgid "PostNord Parcel Economy"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:682
+msgid "PostNord Business Priority"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:683
+msgid "PostNord Click & Collect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:684
+#: includes/Shipping/Adapter/Shipmondo.php:697
+msgid "PostNord Pickup Request"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:685
+msgid "PostNord DPD Classic"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:686
+msgid "PostNord EMS"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:687
+#: includes/Shipping/Adapter/Shipmondo.php:714
+msgid "PostNord Groupage"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:688
+msgid "PostNord InNight"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:689
+msgid "PostNord InNight Next Day"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:690
+#: includes/Shipping/Adapter/Shipmondo.php:715
+msgid "PostNord MyPack Collect"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:691
+msgid "PostNord MyPack Collect in Store"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:692
+#: includes/Shipping/Adapter/Shipmondo.php:716
+msgid "PostNord MyPack Home"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:693
+msgid "PostNord MyPack Home Economy"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:694
+#: includes/Shipping/Adapter/Shipmondo.php:857
+msgid "PostNord Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:695
+msgid "PostNord PP label"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:696
+msgid "PostNord Private Priority"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:698
+#: includes/Shipping/Adapter/Shipmondo.php:718
+msgid "PostNord Return Drop Off"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:699
+msgid "PostNord Return Drop Off (DPD)"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:700
+msgid "PostNord Return Pickup"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:701
+msgid "PostNord Servicelogistik"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:702
+msgid "PostNord Tracked Maxibrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:703
+msgid "PostNord Tracked Storbrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:704
+msgid "PostNord Untracked Maxibrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:705
+msgid "PostNord Untracked Storbrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:706
+msgid "PostNord Varebrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:707
+#: includes/Shipping/Adapter/Shipmondo.php:709
+msgid "PostNord MyPack Home Small"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:708
+msgid "Posten Norge Varebrev"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:710
+msgid "PostNord Varubrev 1:a-klass"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:711
+msgid "PostNord Varubrev Ekonomi"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:712
+msgid "PostNord Varubrev Norge"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:713
+msgid "PostNord Varubrev Retur"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:719
+msgid "Posti Express-paketti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:720
+msgid "Posti Express-paketti Aamuksi"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:721
+msgid "Posti Express-paketti Samana Päivänä"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:722
+msgid "Posti Kotipaketti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:723
+msgid "Posti Postipaketti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:724
+msgid "Posti Palautus"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:725
+msgid "Posti Pikkupaketti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:726
+msgid "SRT Transport Business delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:727
+msgid "SRT Transport Half pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:728
+msgid "SRT Transport Quarter pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:729
+msgid "SRT Transport Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:730
+msgid "SRT Transport Private delivery"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:731
+msgid "TNT Economy Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:732
+msgid "TNT Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:733
+msgid "TNT 9:00 Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:734
+msgid "TNT 10:00 Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:735
+msgid "TNT 12:00 Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:736
+msgid "TNT Express Document"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:737
+msgid "DB Schenker Sverige Parcel Inrikes"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:738
+msgid "DB Schenker Sverige Parcel Ombud"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:739
+msgid "Unspecified carrier Address label"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:740
+msgid "Unspecified carrier Address label w/pro forma"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:741
+msgid "Unspecified carrier Pickup label"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:742
+msgid "UPS Expedited"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:743
+msgid "UPS Expedited Access Point"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:744
+msgid "UPS Express Document"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:745
+msgid "UPS Express"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:746
+msgid "UPS Express Access Point"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:747
+msgid "UPS UPS Express Saver Document"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:748
+msgid "UPS Express Saver"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:749
+msgid "UPS Express Saver Access Point"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:750
+msgid "UPS Standard"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:751
+msgid "UPS Standard Access Point"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:752
+msgid "Xpressen Food Distribution"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:753
+msgid "Xpressen National Distribution"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:760
+msgid "Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:761
+msgid "Brink Package"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:762
+msgid "Brink ½ pll. 0-200 Kg"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:763
+msgid "Brink 1 pll. 0-400 Kg"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:764
+msgid "Brink ¼ pll. 0-100 Kg"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:765
+msgid "Bring EUR Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:766
+msgid "Bring Half Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:767
+msgid "Bring Quarter Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:768
+msgid "Bring Special Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:769
+msgid "Bring Pakke"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:770
+msgid "Bring Palle"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:771
+msgid "Blue Quarter pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:772
+msgid "Blue Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:773
+msgid "Interfjord PLL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:774
+msgid "Blue Special pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:775
+msgid "Interfjord HPL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:776
+msgid "DACHSER Customer sterile pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:777
+msgid "DACHSER Composite packaging"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:778
+msgid "Deutsche KT"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:779
+msgid "DACHSER Roll"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:780
+msgid "DACHSER Euro pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:781
+msgid "DACHSER Pail"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:782
+msgid "DACHSER Box"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:783
+msgid "DACHSER Euro-Meat-Tray 2"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:784
+msgid "DACHSER Barrel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:785
+msgid "PostNord Carton"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:786
+msgid "DACHSER Bundle"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:787
+msgid "DACHSER Plastic Jerri can"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:788
+msgid "DACHSER Chep-Standard-Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:789
+msgid "DACHSER Pressure receptacle"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:790
+msgid "DACHSER Quarter EU-pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:791
+msgid "DACHSER E-Performance Box 3"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:792
+msgid "DACHSER Shrink-wrapped pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:793
+msgid "DACHSER Large Package"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:794
+msgid "DACHSER Chep-Quarter-Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:795
+msgid "DACHSER Parcel/Packet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:796
+msgid "DACHSER Sterile pallet 0"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:797
+msgid "DACHSER Euro-Meat-Tray 4"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:798
+msgid "DACHSER E-Performance Box 1"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:799
+msgid "DACHSER Half EU pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:800
+msgid "DACHSER E-Performance Box 2"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:801
+msgid "DACHSER Crate"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:802
+msgid "DACHSER IBC-Container"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:803
+msgid "DACHSER One way pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:804
+msgid "DACHSER Düsseldorfer pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:805
+msgid "DACHSER Euro-Meat-Tray 3"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:806
+msgid "DACHSER Tray"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:807
+msgid "DACHSER Hobbock"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:808
+msgid "Deutsche S"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:809
+msgid "DACHSER Euro-Meat-Tray 1"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:810
+msgid "DACHSER Can"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:811
+msgid "DACHSER Customs envelope"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:812
+#: includes/Shipping/Adapter/Shipmondo.php:825
+msgid "DACHSER Drum"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:813
+msgid "DACHSER Customer Euro-Meat Tray 2"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:814
+msgid "DACHSER Bottle"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:815
+msgid "DACHSER Piece"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:816
+msgid "DACHSER Industrial pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:817
+msgid "DACHSER Unpacked"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:818
+msgid "DACHSER Light gauge metal packaging"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:819
+msgid "DACHSER Protection lid"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:820
+msgid "DACHSER Lattice pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:821
+msgid "DACHSER Frame"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:822
+msgid "DACHSER Case"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:823
+msgid "DACHSER Display"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:824
+msgid "DACHSER Chep-Half-Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:826
+msgid "DACHSER 1.4 pallet – Paki"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:827
+msgid "DACHSER Jerri can"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:828
+msgid "Danske PL2"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:829
+msgid "Danske PL1"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:830
+msgid "DHL Pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:831
+msgid "Interfjord CLL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:832
+msgid "DSV Package"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:833
+msgid "DHL DHL Helpall"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:834
+msgid "DHL DHL Halvpall"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:835
+msgid "Deutsche XS"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:836
+msgid "Deutsche L"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:837
+msgid "Deutsche M"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:838
+msgid "Interfjord XL PLL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:839
+msgid "Interfjord KPL"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:840
+msgid "FedEx FedEx Pak"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:841
+msgid "FedEx FedEx Box"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:842
+msgid "FedEx Your packaging"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:843
+msgid "FedEx FedEx Tube"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:844
+msgid "FedEx FedEx Envelope"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:845
+msgid "FREJA Half pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:846
+msgid "FREJA EUR-pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:847
+msgid "FREJA Quarter pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:848
+msgid "FREJA Industrial pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:849
+msgid "FREJA Carton"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:850
+msgid "Interfjord DOC"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:851
+msgid "Interfjord Styk"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:852
+msgid "Interfjord Parti"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:853
+msgid "Interfjord Scooter"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:854
+msgid "Interfjord Cykel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:855
+msgid "Interfjord LÆS"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:856
+msgid "Interfjord Elcykel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:858
+msgid "Posti Parcel"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:859
+msgid "PostNord Special pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:860
+msgid "PostNord Half pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:861
+msgid "PostNord EUR pallet"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:862
+msgid "PostNord Envelope"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:863
+msgid "PostNord Cage roll"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:864
+msgid "Posti EUR Pallet, 1200x800"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:865
+msgid "Posti FIN Pallet, 1200x1000"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:866
+msgid "Posti Rolltainer"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:867
+msgid "Posti Half Pallet, 800x600"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:868
+msgid "Posti Flex Pallet, 2000x800"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:869
+msgid "Posti Cage"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:870
+msgid "UPS Own packaging"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:871
+msgid "UPS Express Pak"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:872
+msgid "UPS Express Box"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:873
+msgid "UPS Express Box Medium"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:874
+msgid "UPS Express Box Large"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:875
+msgid "UPS Express Tube"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:876
+msgid "UPS Express Box Small"
+msgstr ""
+
+#: includes/Shipping/Adapter/Shipmondo.php:877
+msgid "UPS Express Envelope"
+msgstr ""
+
+#: includes/Shipping/ApiRatesFinder.php:50
+msgid "Destination country is required"
+msgstr ""
+
+#: includes/Shipping/ApiRatesFinder.php:57
+msgid "Parcel weight must be larger than 0"
+msgstr ""
+
+#: includes/Shipping/ApiRatesFinder.php:64
+msgid "Company Name Is Missing"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:51
+#: includes/Shipping/ShippingMethod.php:474
+msgid "Parcel Packing"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:53
+msgid ""
+"Configure shipping boxes you use, so we can automatically determine how "
+"items will be packed and get more accurate shipping rates quote."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:56
+msgid "Combine All Boxes"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:57
+msgid ""
+"Try to find a bigger box to ship everything as one package, instead of "
+"requesting shipping quote for each of the boxes and then asking customer to "
+"pay a sum of all the fees."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:65
+#: includes/Shipping/ShippingMethod.php:373
+msgid "Use Cube Dimensions"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:66
+msgid ""
+"Parcel dimensions will be converted into cube with equally long sides. It "
+"can only be used when Combine All Boxes is enabled."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:71
+#: includes/Shipping/ShippingMethod.php:350
+#: includes/Shipping/ShippingMethod.php:379
+#: includes/Shipping/ShippingMethod.php:461
+msgid "WARNING!!!"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:72
+#: includes/Shipping/ShippingMethod.php:380
+msgid ""
+"Combine All Products must be enabled before Use Cube Dimensions can be used."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:89
+#: includes/Shipping/ShippingMethod.php:475
+msgid "Services"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:91
+msgid ""
+"Control visibility of the services returned by the API, customize the "
+"shipping methods' name that customers will see as well as define shipping "
+"rate adjustments."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:94
+msgid "Enable / Disable Services"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:95
+msgid "Display services that have not been listed below"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:127
+msgid ""
+"PRO version allows to specify max weight that boxes can carry, outer "
+"dimensions, weight and inner padding of the boxes that are used to ship items"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:132
+#: includes/Shipping/Hooks/SettingsForm.php:218
+msgid "Enabled"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:133
+#: includes/Shipping/Hooks/SettingsForm.php:219
+#: includes/Shipping/ShippingMethod.php:1051
+msgid "Name"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:134
+msgid "Type"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:135
+msgid "Length"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:136
+msgid "Width"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:137
+msgid "Height"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:138
+msgid "Weight"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:139
+msgid "Inner Padding"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:140
+msgid "Max Weight"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:146
+msgid "Add Box"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:147
+msgid "Remove selected box(es)"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:151
+msgid "Fields marked with (*) are required"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:213
+msgid ""
+"PRO version allows to specify shipping method services that you want to "
+"display / customize."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:220
+msgid "Name Displayed to Customers"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:221
+#: includes/Shipping/ShippingMethod.php:670
+msgid "Add to Rate"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:222
+#: includes/Shipping/ShippingMethod.php:676
+msgid "Multiply Rate By"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:228
+msgid "Add Service"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:229
+msgid "Remove Selected Services"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:233
+msgid ""
+"Shipping rate adjustments will be applied to the base rate returned by the "
+"service and they will overwrite global rate adjustments."
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:264
+#: includes/Shipping/ShippingMethod.php:76
+msgid "Requires"
+msgstr ""
+
+#: includes/Shipping/Hooks/SettingsForm.php:266
+#: includes/Shipping/ShippingMethod.php:78
+msgid "PRO Version"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:69
+#, php-format
+msgid "%s Shipping"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:147
+msgid "From Address:"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:149
+msgid "Shipping Address:"
+msgstr ""
+
+#: includes/Shipping/Plugin.php:165
+msgid "Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:47
+msgid "Shipping Method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:53
+msgid ""
+"Real-time shipping rates, shipping label creation and tracking of the "
+"shipments."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:213
+msgid "Troubleshooting Tips"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:214
+msgid ""
+"If you do not see shipping rates in the cart or have issues creating "
+"shipping labels then:"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:215
+msgid ""
+"Save settings and look at the top for any possible validation errors "
+"displayed in the red container above"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:216
+msgid ""
+"Enable Validate Products and save the settings, then check for validation "
+"errors"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:217
+msgid ""
+"Enable Debug Mode, uncheck Use Cache and perform operation at question, then "
+"look for error messages in the cart and generated log file"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:218
+msgid "Verify that all API/Token keys you have used are correct and active"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:219
+msgid "Verify that all products have dimensions and weight set"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:220
+msgid ""
+"To see rates in the cart make sure that Live Shipping Rates feature of the "
+"plugin is enabled"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:221
+msgid "Try unchecking Signature Service and Include Insurance"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:222
+msgid ""
+"If you've enabled Shipping Zones feature of the plugin then make sure to add "
+"plugin to the relevant Shipping Zones"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:223
+msgid ""
+"Disable other shipping plugins and observe if it will make any difference"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:224
+msgid ""
+"If after all that issue still persists, then send us screenshots of the "
+"issue along with the contents of the generated log file, when debug was "
+"enabled, and we will help you to resolve the issue."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:232
+msgid "Do you want to learn how to configure and use this plugin?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:234
+msgid "Click to read documentation"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:240
+#: includes/Shipping/ShippingMethod.php:448
+#: includes/Shipping/ShippingMethod.php:728
+#: includes/Shipping/ShippingMethod.php:802
+#: includes/Shipping/ShippingMethod.php:850
+#: includes/Shipping/ShippingMethod.php:987
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:241
+msgid "Enable this shipping plugin"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:253
+msgid "General Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:257
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:258
+msgid "Test plugin settings without buying postage"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:261
+msgid "Allows to test plugin without the need to pay real money for postage."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:264
+msgid "Validate Products"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:265
+msgid "Validate Products Weight and Dimensions"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:268
+msgid ""
+"Products must have weight and dimensions set for live shipping rates to "
+"work. Enable this option and plugin will display IDs of the products that do "
+"not meet this requirement."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:271
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:272
+msgid "Log plugin activities"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:274
+msgid "Log can be found in"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:276
+msgid "WooCommerce -> Status -> Logs"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:277
+msgid " with the name"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:279
+msgid "It can also be found in: "
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:286
+#: includes/Shipping/ShippingMethod.php:1688
+msgid "Use Cache"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:287
+msgid "Enable caching of API responses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:290
+msgid ""
+"Caching improves performance and helps to reduce API usage by preventing "
+"duplicate requests to the service. You can try to disable it for debug "
+"purposes."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:293
+msgid "Cache Expiration (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:295
+msgid ""
+"Found rates, addresses, parcels, customs info will cached for a given amount "
+"of seconds and help to reduce number of required API requests. For "
+"production we recommend to set this value for at least a few days."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:298
+msgid "Request Timeout (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:300
+msgid ""
+"Defines for how long plugin should wait for a response after API request has "
+"been sent."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:308
+msgid "Common Shipping Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:310
+msgid ""
+"Configure default settings that will be used to request a quote, create "
+"shipment and purchase postage."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:317
+msgid "Use Seller Address"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:319
+msgid "Use Vendor's address as a FROM address for shipping rate quoting"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:330
+msgid "Do you want to charge separate shipping for each vendor?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:332
+msgid "Shipping Packages"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:333
+msgid ""
+"plugin will arrange products, based on Group By condition into packages and "
+"each package will have its own shipping method selection in the cart and "
+"checkout pages."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:343
+msgid "Validate Address"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:344
+msgid ""
+"Require shipping address validation before accepting an order (additional "
+"fees may apply). Note: 1TeamSoftware is not responsible for any fees "
+"incurred."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:352
+msgid ""
+"You might be charged by a shipping provider for each address validation."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:354
+msgid ""
+"In cases when you do not have billing properly setup, live shipping rates "
+"might not be returned."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:355
+#: includes/Shipping/ShippingMethod.php:463
+msgid "Do you still want to enable it?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:365
+msgid "Combine All Products"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:366
+msgid ""
+"Combine all the products and ship together. Product dimensions and weight "
+"will be summed and shipping rate will be quoted only once."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:374
+msgid ""
+"Parcel dimensions will be converted into cube with equally long sides. It "
+"can only be used when Combine All Products is enabled."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:390
+msgid "Collect On Delivery"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:391
+msgid "Request collection of the payment on delivery"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:402
+msgid "Include Insurance"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:403
+msgid "Add insurance fee to the shipping rate"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:413
+msgid "Signature Required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:414
+msgid "Display only shipping methods that support signature service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:423
+msgid "Require Company Name"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:424
+msgid "Plugin will not allow to checkout unless company name is filled"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:425
+msgid ""
+"It can be useful when your carrier requires that recipient will have a "
+"company name before it will return any shipping rates."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:434
+msgid "Default Tariff #"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:436
+#, php-format
+msgid ""
+"%sTariff number%s is required by some carriers for international shipments. "
+"It will be used to get shipping quotes unless overwritten during shipping "
+"label creation."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:443
+msgid "Live Shipping Rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:445
+msgid ""
+"Configure live shipping rate settings that will be displayed on the cart and "
+"checkout pages."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:450
+msgid "Display live shipping rates on cart and checkout pages"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:451
+msgid "Please note that having it enabled can affect your API limits"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:454
+msgid "Shipping Zones"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:455
+msgid "Control availability of this shipping method with Shipping Zones"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:462
+msgid ""
+"No shipping rates will be displayed until you will add plugin to desired "
+"Shipping Zones."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:466
+msgid ""
+"If this option is enabled, then live shipping rates will not be displayed "
+"until you will add plugin to the relevant shipping zones. Please note that "
+"WooCommerce does not support overlapping shipping zones."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:469
+msgid "Shipping Zone Fields"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:473
+#: includes/Shipping/ShippingMethod.php:1046
+#: includes/Shipping/ShippingMethod.php:1705
+#: includes/Shipping/ShippingMethod.php:1710
+#: includes/Shipping/ShippingMethod.php:1715
+#: includes/Shipping/ShippingMethod.php:1720
+#: includes/Shipping/ShippingMethod.php:1725
+#: includes/Shipping/ShippingMethod.php:1730
+msgid "From Address"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:477
+msgid ""
+"Choose what fields from the plugin settings you would like to overwrite in "
+"shipping zone settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:481
+msgid "Page Condition"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:485
+#: includes/Shipping/ShippingMethod.php:775
+msgid "Any"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:486
+msgid "Cart and Checkout"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:487
+msgid "Checkout"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:490
+msgid ""
+"Plugin will attempt to fetch live shipping rates only on pages that meet "
+"specified condition"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:493
+msgid "Min Shipping Rate Cost"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:496
+msgid ""
+"Only shipping rates that are higher or equal than a given amount will be "
+"displayed"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:499
+msgid "Max Shipping Rate Cost"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:502
+msgid ""
+"Only shipping rates that are lower or equal than a given amount will be "
+"displayed"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:505
+msgid "Max Displayed Rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:508
+msgid "Limit number of shipping rates displayed at once"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:515
+msgid "Display Delivery Time"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:516
+msgid "Display delivery time next to the name of a shipping method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:527
+msgid "Display Tracking Type"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:528
+msgid ""
+"Display type of the tracking included next to the name of a shipping method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:542
+msgid "Need Manifests?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:544
+msgid "Shipping Manifests PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:545
+msgid ""
+"plugin will group shipments into batches and let you print manifests for "
+"them."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:554
+msgid "Media Mail Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:556
+msgid ""
+"Configure whenever media mail shipping should be offered and under which "
+"conditions."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:559
+msgid "Media Mail"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:562
+msgid "Do not offer it"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:563
+msgid "Show only Media Mail shipping method"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:564
+msgid "Show it together with other shipping methods"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:569
+#: includes/Shipping/ShippingMethod.php:586
+#: includes/Shipping/ShippingMethod.php:604
+msgid "Condition"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:573
+msgid ""
+"If all products in the cart or a shipping package exactly match this "
+"condition, then Medial Mail shipping will be offered. It is ignored when "
+"empty."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:581
+msgid "Alcohol Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:583
+msgid ""
+"Configure what conditions products have to match to be considered as an "
+"alcohol."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:590
+msgid ""
+"If any of the products in the cart or a shipping package match all of these "
+"conditions, then shipment will be marked as containing alcohol."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:599
+msgid "Dry Ice Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:601
+msgid ""
+"Configure what conditions products have to match to be considered as a dry "
+"ice."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:608
+msgid ""
+"If any of the products in the cart or a shipping package match all of these "
+"conditions, then shipment will be marked as dry ice."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:616
+msgid "Parcel Adjustments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:619
+msgid ""
+"Configure how final weight and dimensions of the parcel should be adjusted "
+"before requesting a quote."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:620
+msgid "Do not change unless you understand what you are doing!"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:624
+#, php-format
+msgid "Min Length (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:627
+msgid "This value will be used when package length is less than the min length"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:631
+#, php-format
+msgid "Min Width (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:634
+msgid "This value will be used when package width is less than the min width"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:638
+#, php-format
+msgid "Min Height (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:641
+msgid "This value will be used when package height is less than the min height"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:645
+#, php-format
+msgid "Min Weight (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:648
+msgid "This value will be used when package weight is less than the min weight"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:652
+#, php-format
+msgid "Add to Weight (%s)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:655
+msgid "This fixed value will be added to weight"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:659
+msgid "Multiply Weight By"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:662
+msgid "Weight will be multiplied by this value"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:665
+msgid "Shipping Rate Adjustments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:667
+msgid "Configure how quoted shipping rates should be adjusted."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:673
+msgid "This value will be added to all quoted shipping rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:679
+msgid "All quoted shipping rates will be multiplied by this value"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:689
+msgid "Need a Better Free Shipping Solution?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:691
+msgid "Free Shipping Per Package PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:692
+msgid "plugin will allow you to define advanced Free Shipping scenarios."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:704
+msgid "Need Fallback Shipping Methods Solution?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:706
+msgid "Flexible Shipping Per Package PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:707
+msgid ""
+"plugin will allow you to define fallback shipping methods when API service "
+"is down."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:723
+msgid "Auto Tracking Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:725
+msgid ""
+"Configure how often plugin should attempt to look for tracking updates. "
+"Plugin will use order email template with the added customer note containing "
+"current status of the shipment."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:729
+msgid "Enable auto tracking feature"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:735
+msgid "Run Auto Tracking Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:738
+msgid "How often in seconds auto tracking job should be executed."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:742
+msgid "Update Shipments Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:745
+msgid "How often in seconds tracking of shipments should be updated."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:749
+msgid "Status Change Timeout (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:752
+msgid ""
+"Stop checking for shipment status update when it does not change within "
+"specified period."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:756
+#: includes/Shipping/ShippingMethod.php:864
+msgid "Max Shipments At Once"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:759
+msgid "Tracking of how many shipments we should update at once."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:767
+msgid "Email Notifications"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:769
+msgid ""
+"Configure when shipment status updates should be emailed to the customers."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:772
+msgid "Notify for Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:776
+msgid ""
+"Email with tracking status update will be sent to the customers when "
+"shipment status will change to one of the listed values."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:780
+msgid "Orders Auto Completion"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:782
+msgid ""
+"Configure for what shipment statuses order should be automatically marked as "
+"completed."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:785
+msgid "Complete Order for Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:789
+msgid ""
+"Order will be marked as completed when shipment status will change to one of "
+"the listed values. By default order will not automatically change its status "
+"to completed."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:797
+msgid "Export Orders"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:799
+msgid ""
+"Configure settings for auto exporting of the new WooCommerce Orders into the "
+"service provider here."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:803
+msgid "Enable auto export of new orders feature"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:809
+msgid "Export Order Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:813
+msgid "Define the order statuses you wish to export."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:815
+msgid "Select Order Statuses"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:819
+msgid "Run Export Orders Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:822
+msgid ""
+"How often in seconds export orders job should be executed. It usually "
+"depends on how many orders your store receives."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:826
+msgid "Delay Between Attemps (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:829
+msgid ""
+"The time plugin should wait before attempting to export the same order when "
+"last attempt has failed. It is recommended for it to be greater than Run "
+"Export Orders Interval."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:833
+msgid "Max Orders At Once"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:836
+msgid "How many orders should be exported at once?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:845
+msgid "Import Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:847
+msgid ""
+"If you create shipping labels in the Dashboard of the service provider, then "
+"you can configure settings of auto importing of these shipments into "
+"WooCommerce Orders here."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:851
+msgid "Enable auto import of shipments feature"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:857
+msgid "Run Import Shipments Interval (secs)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:860
+msgid ""
+"How often in seconds import shipments job should be executed. It usually "
+"depends on how often you create shipments."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:867
+msgid ""
+"How many shipments do you usually create in the inverval configured above?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:875
+msgid "PDF Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:877
+msgid "Define settings that will be applied to generated PDF documents."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:880
+msgid "Auto Print"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:883
+msgid ""
+"Add script to generated PDF documents, which will trigger printing upon "
+"opening with supported viewers"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:887
+msgid "Printer Dialog"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:890
+msgid "Display printer settings dialog before submiting a printer job"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:897
+msgid "Purchase Postage Defaults"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:899
+msgid ""
+"Configure default values that will be used when purchasing shipping labels "
+"in bulk or individually."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:902
+msgid "Shipment Description"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:904
+msgid "Merchandise"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:905
+msgid "This description will be used by default, but can be overwritten."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:909
+msgid "Contents"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:912
+msgid "Selected contents will be used in customs declaration"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:916
+msgid "Country of Origin"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:922
+msgid "Domestic Service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:923
+msgid "By default use this service for Domestic Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:925
+#: includes/Shipping/ShippingMethod.php:933
+msgid "No default service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:930
+msgid "International Service"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:931
+msgid "By default use this service for International Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:941
+msgid "Purchase Postage Workflow"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:943
+msgid ""
+"Configure required manual steps before we will attempt to purchase postage "
+"for the shipment."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:946
+msgid "Allow Multiple Shipments"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:947
+msgid "Allow creation of the multiple shipments for the same order"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:953
+msgid "Require to Get A Quote"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:954
+msgid "Request shipping rates quote before allowing to create a shipment"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:964
+#: includes/Shipping/ShippingMethod.php:1005
+msgid "Require to Create Shipment"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:965
+#: includes/Shipping/ShippingMethod.php:1006
+msgid ""
+"Create shipment before allowing to purchase postage (create shipping label)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:975
+msgid "Require to Confirm Shipment Details"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:976
+msgid ""
+"Display confirmation dialog with the shipment details before allowing to "
+"create shipment (purchase postage)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:982
+msgid "Bulk Purchase Postage Workflow"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:984
+msgid ""
+"Configure ability to create shipments and purchase postage in bulk from "
+"Admin Orders. In this case, all products are expected to be shipped in one "
+"parcel."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:988
+msgid "Enable bulk shipment creation and postage purchase"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:994
+msgid "Use Service Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:995
+msgid "Limit service selection based on Service Settings of the plugin"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1016
+msgid "Require to Purchase Postage"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1017
+msgid "Purchase postage before allowing to download shipping label and forms"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1048
+msgid ""
+"What is the address of the place from where parcels are going to be shipped?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1055
+msgid "Company"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1059
+msgid "Email"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1063
+msgid "Phone"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1067
+msgid "Country"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1073
+msgid "State"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1078
+msgid "City"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1082
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1086
+msgid "Address 1"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1090
+msgid "Address 2"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1107
+msgid "Integration Settings"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1109
+msgid ""
+"Configure settings required for plugin to properly work with the service."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1141
+#: includes/Shipping/ShippingMethod.php:1167
+msgid "Do you want Vendors to be able to Print Shipping Labels?"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1143
+msgid "Shipping Labels for WCFM PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1144
+msgid ""
+"plugin is required, to add an ability to Vendors to print Shipping Labels in "
+"WCFM Frontend."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1169
+msgid "Shipping Labels for Dokan PRO"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1170
+msgid ""
+"plugin is required, to add an ability to Vendors to print Shipping Labels in "
+"Dokan Dashboard."
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1283
+msgid "From Address: "
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1285
+msgid "To Address: "
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1667
+msgid "Validation Errors"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1688
+msgid "is disabled, please use it only for debugging purposes"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1693
+msgid "Cache Expiration (sec)"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1693
+msgid "is too short, please set it to 60 or more seconds"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1705
+msgid "Name or Company should be filled"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1710
+msgid "Phone is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1715
+msgid "Country is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1720
+msgid "City is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1725
+msgid "Zip / Postal Code is required to be able to get shipping rates"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1730
+msgid "Address 1 is required"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1751
+msgid "The following products do not have Weight set"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1761
+msgid "The following products do not have Length, Width or Height set"
+msgstr ""
+
+#: includes/Shipping/ShippingMethod.php:1789
+msgid "Plugin is not added to any Shipping Zone"
+msgstr ""
+
+#: wc-shipmondo-shipping.php:30
+msgid "Real-time Shipmondo live shipping rates"
+msgstr ""
+
+#: wc-shipmondo-shipping.php:32
+msgid "Do you have any questions or requests?"
+msgstr ""
+
+#: wc-shipmondo-shipping.php:34
+msgid "Do you like our plugin and can recommend to others?"
+msgstr ""
